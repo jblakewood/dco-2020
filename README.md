@@ -1,2 +1,2 @@
-# dco-2020
-Registration form for DCO 2020
+# DCO-2020
+Just a simple styled registration form (embedded Mailchimp) for DCO 2020
